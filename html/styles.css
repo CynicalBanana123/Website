@@ -143,32 +143,41 @@ a:hover {
   margin-bottom: 20px;
 }
 
-  .about_BookingSection {
-    text-align: center;
-    margin-top: 25px;
-  }
-  
-  .about_require {
-    margin-top: 10px;
-  }
+/*Book Page starts here*/
+.row1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
 
-  .about_contact {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 60px 80px;
-  }
-  
-  .about_content {
-    max-width: 500px;
-  }
-  
-  .about_help {
-    color: #f38080;
-    font-size: 18px;
-    margin-bottom: 10px;
-    margin-left: 100px;
-  }
+.text-box1 {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  margin-top: 150px;
+}
+
+.text-box1 h2 {
+  margin-top: 0;
+  font-size: 36px;
+    }
+
+.image-box {
+  flex: 1;
+    }
+
+.image-box1 img {
+  width: 80%;
+  max-width: 100%;
+  height: 500px;
+  border-radius: 10px;
+  }      
   
   h1 {
     font-size: 34px;
@@ -179,12 +188,6 @@ a:hover {
     margin-top: 100px;
   }
   
-  .about_description {
-    font-size: 25px;
-    line-height: 1.6;
-    margin-bottom: 100px;
-    margin-left: 100px;
-  }
 
 /*Rooms Page starts here*/
 
