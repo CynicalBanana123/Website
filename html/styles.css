@@ -265,7 +265,20 @@ a:hover {
       color: #333;
     }
 
+/*Contact Us Page starts here*/
+.contact-info p {
+  font-size: 16px;
+  margin: 10px 0;
+}
 
+.icon {
+  margin-right: 10px;
+}
+
+.contact-info a {
+  color: #3b70d0;
+  text-decoration: none;
+}
 
 /*Rooms Page starts here*/
 
