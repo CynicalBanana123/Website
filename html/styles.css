@@ -201,11 +201,10 @@ a:hover {
       text-decoration: none;
       border-radius: 8px;
       font-size: 20px;
-      text-align: center;
-      width: 100px;
+      width: auto;
       cursor: pointer;
-
-
+      margin-right:830px;
+      margin-left:830px;
     }
 
     .modal {
