@@ -143,3 +143,45 @@ a:hover {
   margin-bottom: 20px;
 }
 
+  .about_BookingSection {
+    text-align: center;
+    margin-top: 25px;
+  }
+  
+  .about_require {
+    margin-top: 10px;
+  }
+
+  .about_contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 80px;
+  }
+  
+  .about_content {
+    max-width: 500px;
+  }
+  
+  .about_help {
+    color: #f38080;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+  }
+  
+  h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color:black;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  
+  .about_description {
+    font-size: 25px;
+    line-height: 1.6;
+    margin-bottom: 100px;
+    margin-left: 100px;
+  }
